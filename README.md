@@ -5,6 +5,8 @@
   <li>JS Core</li>
   <li>DOM</li>
   <li>BOM</li>
+  <li>JSON</li>
+  <li>AJAX</li>
 </ul>
 <a href='https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv'>Youtube Channel</a>
 <br>
