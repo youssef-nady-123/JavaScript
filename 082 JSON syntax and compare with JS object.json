@@ -1,0 +1,14 @@
+{
+    "name": "osama",
+    "age": 25,
+    "skills": [
+        "HTML",
+        "CSS",
+        "JS"
+    ],
+    "countryVisited": {
+        "EG": "Egypt",
+        "KSA": "Riyad"
+    },
+    "isStudent": false
+}
